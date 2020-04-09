@@ -1,4 +1,9 @@
 # Introducción
+
+## ¿Qué es javascript?
+JavaScript es un **lenguaje de programación** que se creó inicialmente para *"dar dinamismo a las páginas web"*.  
+Los [scripts](https://es.wikipedia.org/wiki/Script) que se crean en este lenguaje se pueden escribir dentro del HTML de una página web y ejecutarse a medida que se carga la página.
+
 ## Un poco de historia
 
 Comenzando los años 90, los usuarios se conectaban a Internet con una velocidad máxima de 28.8 kbps, y las páginas web contenían solo HTML (textos, imágenes, enlaces, etc), por lo que no había ningún dinamismo en las páginas. En esa época solo habían dos navegadores Internet Explorer (de Microsoft) y Netscape, cada uno queriendo tener la mayor cantidad de usuarios.
