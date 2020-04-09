@@ -10,3 +10,11 @@ Entonces a lo largo de esta batalla, fue cuando [Brendan Eich](https://en.wikipe
 ![Internet Explorer y Netscape](./imagenes/javascript-is-not-java.jpg) 
 
 Debido a que JavaScript es un lenguaje funcional, imperativo y orientado a objetos (sabemos que es más bien orientado a prototipos) tuvo tanto éxito que 1 año después lanzan la versión 1.1, y a la par Microsoft decide adoptarlo para Internet Explorer, bueno ejem… realmente creó una copia de JavaScript llamada JScript (esto con el fin de evitar problemas legales); como buen visionario Netscape decide estandarizar el lenguaje de JavaScript así que en 1997 decide enviar su versión al organismo ECMA (European Computer Manufacturers Association)
+
+## El rol de javascript en el desarrollo web
+
+HTML es un lenguaje que determina cómo se estructura las páginas web en un navegador, css determina cómo se diseña una página web creada en HTML (colores, estilos de fuente, diseño, visibilidad en los dispositivos, etc).
+
+Javascript permite cambiar elementos CSS y HTML en su sitio web después de que el sitio se haya cargado, lo que le brinda la capacidad de hacer que su sitio sea más interactivo y atractivo para los usuarios.
+
+![Html vs Css vs Js](./imagenes/html-css-js-comparison.png)
