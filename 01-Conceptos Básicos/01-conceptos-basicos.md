@@ -30,9 +30,10 @@ Tambien es posible hacer la declaración de la variable y la asignación de un v
 
 ```JavaScript
 var universidad = 'Universidad de Piura';
+var ciclo = 6;
 ```
 
-
+Hemos visto que podemos almacenar un texto `'Universidad de Piura'` y también un número `6`, estos dos diferentes `tipos de datos` que podemos usar. JavaScript proporciona siete `tipos de datos` diferentes que son `undefined`, `null`, `boolean`, `string`, `symbol`, `number`, y `object`.
 
 
 
