@@ -1,5 +1,7 @@
 # Curso de Javascript
 
+![Curso de Javascript - IEEE UDEP LIMA](./banner-curso-js.jpg)
+
 ## Requerimientos
 - Navegador web (preferible Chrome)
 - Ganas de aprender
