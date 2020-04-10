@@ -14,7 +14,11 @@ var miNombre;
 
 Hemos creado una variable llamada `nombre`. En JavaScript terminamos las declaraciones con punto y coma (no es obligatorio, pero si recomendable). Los nombres de las variables pueden estar formados por números, letras y `$` o `_`, pero no pueden contener espacios ni comenzar con un número. 
 
-Las variables en javascript son sensibles a mayúscular y minúsculas ( [Case Sensitivity](https://es.wikipedia.org/wiki/Sensible_a_may%C3%BAsculas_y_min%C3%BAsculas)). Es diferente la variable `miNombre` a `minombre`.
+Las variables en javascript son sensibles a mayúscular y minúsculas ( [Case Sensitivity](https://es.wikipedia.org/wiki/Sensible_a_may%C3%BAsculas_y_min%C3%BAsculas)). Es diferente la variable `miNombre` a `minombre` y a `MINOMBRE`.
+
+> Buenas prácticas:  
+> En javascript se suele usar el estilo `camelCase` para nombrar una variable, 
+> la primera palabra se escribe en minúscula y las demás solo la primera letra en mayúscula.
 
 ## Asignar valores
 
@@ -52,3 +56,4 @@ edad = 22;
 "mi nombre es" + nombre; // Muestra: "Mi nombre es Juan Pérez"
 edad + 1;  // Muestra: 23
 ```
+
