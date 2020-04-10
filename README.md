@@ -1,6 +1,7 @@
-# Curso de Javascript
-
 ![Curso de Javascript - IEEE UDEP LIMA](./banner-curso-js.jpg)
+
+# Curso de Javascript
+El presente curso es una guía para comenzar a utilizar javascript. Creado para la formación de los miembros del capítulo CS. 
 
 ## Requerimientos
 - Navegador web (preferible Chrome)
