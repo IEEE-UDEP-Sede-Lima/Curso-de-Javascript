@@ -2,11 +2,7 @@
 
 ## Variables
 
-JavaScript proporciona siete tipos de datos diferentes que son `undefined`, `null`, `boolean`, `string`, `symbol`, `number`, y `object`.
-
-Las computadoras distinguen entre números, como el número `12`, y cadenas, como `"12"`, `"perro"` o `"123 gatos"`, que son colecciones de caracteres. Las computadoras pueden realizar operaciones matemáticas en un número, pero no en una cadena.
-
-Las `variables` permiten a las computadoras almacenar y manipular datos de forma dinámica. Lo hacen mediante el uso de una "etiqueta" para señalar los datos en lugar de utilizar los datos en sí. Cualquiera de los siete tipos de datos que mencionamos puede almacenarse en una variable.
+Las `variables` permiten a las computadoras almacenar y manipular datos de forma dinámica. Lo hacen mediante el uso de una "etiqueta" para señalar los datos en lugar de utilizar los datos en sí. 
 
 Las `variables` son similares a la representación de un punto en corrdenadas x e y, que usa en matemáticas, lo que significa que son un nombre simple para representar los datos a los que queremos referirnos.
 
@@ -35,3 +31,8 @@ Tambien es posible hacer la declaración de la variable y la asignación de un v
 ```JavaScript
 var universidad = 'Universidad de Piura';
 ```
+
+
+
+
+
